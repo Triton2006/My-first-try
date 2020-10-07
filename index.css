@@ -1,0 +1,23 @@
+body {
+ font-family: Roboto, sans-serif  ; 
+ font-style: normal;
+
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    font-family: Raleway,sans-serif ;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    color: #2196F3;
+    
+    /* identical to box height */
+    letter-spacing: 0.03em;
+          
+}
+.logo_item{
+    color: #212121;
+
+}
